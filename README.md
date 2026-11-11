@@ -1,37 +1,34 @@
 # Inicio_lluvias-dataset
 Es un dataset construido e integrado con variables climatológicas de varias fuentes de información como: SMN-CONAGUA, NOOA, NASA POWER-DAV y ECMWF
 
-## Citar Referencias de Fuentes de Información:
+## Cite sources of information:
 
-## Servicio Meteorológico Nacional - Comisión Nacional del Agua (SMN-CONAGUA): 
+## National Weather Service - National Water Commission (NWS-NWC): 
 
-Información Estadistica Climatológica
+Climatological Statistical Information
 https://smn.conagua.gob.mx/es/climatologia/informacion-climatologica/informacion-estadistica-climatologica
 
-Sistema de Información Hidrológica: https://sih.conagua.gob.mx/
+Hydrological Information System: https://sih.conagua.gob.mx/
 
 ## National Oceanic and Atmospheric Administration (NOOA): 
 https://www.noaa.gov/
 
-ENSO: Mensual OISST.v2.1 (periodo base 1991-2020) Niño 1+2 (0-10°Sur)(90°Oeste-80°Oeste) Niño 3 (5°Norte-5°Sur)(150°Oeste-90°Oeste) Niño 4 (5°Norte-5°Sur) (160°Este-150°Oeste) Niño 3.4 (5°Norte-5°Sur)(170-120°Oeste): https://www.cpc.ncep.noaa.gov/data/indices/sstoi.indices
+ENSO: Monthly OISST.v2.1 (base period 1991-2020) Niño 1+2 (0-10° South)(90° West-80° West) Niño 3 (5° North-5° South)(150° West-90° West) Niño 4 (5° North-5° South) (160° East-150° West) Niño 3.4 (5° North-5° South)(170-120° West): https://www.cpc.ncep.noaa.gov/data/indices/sstoi.indices
 
-ORL: Mensual, Radiación de onda larga saliente del ecuador (160 ° E-160 ° W): Original, Anomalo y Estandarizado
+ORL: Monthly, Outgoing longwave radiation from the equator (160 ° E-160 ° W): Original, Anomalous, and Standardized
 https://www.cpc.ncep.noaa.gov/data/indices/olr
 
-## Prediction Of Worldwide Energy Resources, Data Access Viewer (NASA, POWER-DAV):
+## National Aeronautics and Space Administration, Prediction Of Worldwide Energy Resources, Data Access Viewer (NASA, POWER-DAV):
 https://power.larc.nasa.gov/data-access-viewer
 
 ## European Centre for Medium-Range Weather Forecasts (ECMWF): 
 
-Datos cuadriculados de humedad del suelo desde 1978 hasta la actualidad
+Gridded soil moisture data from 1978 to the present
 
-Este conjunto de datos se elabora en nombre del Servicio de Cambio Climático de Copernicus (C3S).
+This dataset is produced on behalf of the Copernicus Climate Change Service (C3S).
 
-Humedad volumétrica del suelo	(m3/m3), Contenido de agua líquida en una capa superficial del suelo de 2 a 5 cm de profundidad, expresado en m3 agua por m3 suelo.
+Soil volumetric moisture (m<sup>3</sup>/m<sup>3</sup>), liquid water content in a surface layer of soil 2 to 5 cm deep, expressed in m<sup>3</sup> of water per m<sup>3</sup> of soil.
 
-Citando la entrada del catálogo CDS
-Servicio de Cambio Climático de Copernicus, Climate Data Store, (2018): Datos cuadriculados de humedad del suelo desde 1978 hasta la actualidad. Almacén de datos climáticos (CDS) del Servicio de Cambio Climático de Copernicus (C3S). DOI: 10.24381/cds.d7782f18 (consultado: 22/09/2025)
+Citing the CDS catalog entry Copernicus Climate Change Service, Climate Data Store, (2018): Gridded soil moisture data from 1978 to the present. Climate Data Store (CDS) of the Copernicus Climate Change Service (C3S). DOI: 10.24381/cds.d7782f18 (consulted: 22/09/2025)
 
-Cita APA:
-Servicio de Cambio Climático de Copernicus, Climate Data Store, (2018): “Datos cuadriculados de humedad del suelo desde 1978 hasta la actualidad”. Almacén de datos climáticos (CDS) del Servicio de Cambio Climático de Copernicus (C3S). https://doi.org/10.24381/cds.d7782f18, (consultado en: 22-09-2025)
-
+APA Citation: Copernicus Climate Change Service, Climate Data Store, (2018): 'Gridded soil moisture data from 1978 to present.' Climate Data Store (CDS) of the Copernicus Climate Change Service (C3S). https://doi.org/10.24381/cds.d7782f18, (consulted on: 22-09-2025).
