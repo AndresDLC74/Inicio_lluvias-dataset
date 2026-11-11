@@ -1,7 +1,7 @@
 # Inicio_lluvias-dataset
 A climatological dataset was constructed using daily observations collected from multiple sources covering the period from 1981 to 2025, resulting in 45 years of historical records. The dataset integrates meteorological, climatic, and environmental variables relevant to rainfall onset prediction.
 
-Meteorological observations were obtained from six climatological stations operated by the Mexican National Meteorological Service (SMN). Additional atmospheric variables were retrieved from the NASA POWER Data Access Viewer (POWER-DAV), while soil moisture data were obtained from the ERA5 reanalysis dataset provided by the European Centre for Medium-Range Weather Forecasts (ECMWF). Large-scale climate variability indicators, including El Niño Southern Oscillation (ENSO) indices and outgoing longwave radiation (OLR) measurements, were obtained from the National Oceanic and Atmospheric Administration (NOAA).
+Meteorological observations were obtained from six climatological stations operated by the Mexican National Meteorological Service (SMN). Additional atmospheric variables were retrieved from the National Aeronautics and Space Administration, Prediction Of Worldwide Energy Resources, Data Access Viewer (NASA, POWER-DAV), while soil moisture data were obtained from the ERA5 reanalysis dataset provided by the European Centre for Medium-Range Weather Forecasts (ECMWF). Large-scale climate variability indicators, including El Niño Southern Oscillation (ENSO) indices and outgoing longwave radiation (OLR) measurements, were obtained from the National Oceanic and Atmospheric Administration (NOAA).
 
 ## Cite sources of information:
 
