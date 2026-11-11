@@ -1,5 +1,7 @@
 # Inicio_lluvias-dataset
-Es un dataset construido e integrado con variables climatológicas de varias fuentes de información como: SMN-CONAGUA, NOOA, NASA POWER-DAV y ECMWF
+A climatological dataset was constructed using daily observations collected from multiple sources covering the period from 1981 to 2025, resulting in 45 years of historical records. The dataset integrates meteorological, climatic, and environmental variables relevant to rainfall onset prediction.
+
+Meteorological observations were obtained from six climatological stations operated by the Mexican National Meteorological Service (SMN). Additional atmospheric variables were retrieved from the NASA POWER Data Access Viewer (POWER-DAV), while soil moisture data were obtained from the ERA5 reanalysis dataset provided by the European Centre for Medium-Range Weather Forecasts (ECMWF). Large-scale climate variability indicators, including El Niño Southern Oscillation (ENSO) indices and outgoing longwave radiation (OLR) measurements, were obtained from the National Oceanic and Atmospheric Administration (NOAA).
 
 ## Cite sources of information:
 
@@ -29,6 +31,6 @@ This dataset is produced on behalf of the Copernicus Climate Change Service (C3S
 
 Soil volumetric moisture (m<sup>3</sup>/m<sup>3</sup>), liquid water content in a surface layer of soil 2 to 5 cm deep, expressed in m<sup>3</sup> of water per m<sup>3</sup> of soil.
 
-Citing the CDS catalog entry Copernicus Climate Change Service, Climate Data Store, (2018): Gridded soil moisture data from 1978 to the present. Climate Data Store (CDS) of the Copernicus Climate Change Service (C3S). DOI: 10.24381/cds.d7782f18 (consulted: 22/09/2025)
+Citing the CDS catalog entry Copernicus Climate Change Service, Climate Data Store, (2018): Gridded soil moisture data from 1978 to the present. Climate Data Store (CDS) of the Copernicus Climate Change Service (C3S). DOI: 10.24381/cds.d7782f18 (consulted on: 22/09/2025)
 
 APA Citation: Copernicus Climate Change Service, Climate Data Store, (2018): 'Gridded soil moisture data from 1978 to present.' Climate Data Store (CDS) of the Copernicus Climate Change Service (C3S). https://doi.org/10.24381/cds.d7782f18, (consulted on: 22-09-2025).
